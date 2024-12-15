@@ -2,7 +2,7 @@
 The Expense Tracker is a web application that allows users to track their expenses and manage their expenses. It is built using HTML, CSS, JS, and PHP.
 
 
-# Features
+### Features
 The Budget Tracker offers the following features:-
 - Create and manage budgets
 - View The Dashboard For Quick Report
@@ -10,7 +10,7 @@ The Budget Tracker offers the following features:-
 - View expense reports
 
 
-# Installation
+### Installation
 To install the Expense Tracker, follow these steps:
 - Clone the repository to your local machine
 - Create a MySQL database with the name "expense" 
@@ -21,7 +21,7 @@ To install the Expense Tracker, follow these steps:
 - Open the index.php file in your web browser
 
 
-# Usage
+### Usage
 To use the Expense Tracker, follow these steps:-
 - Signup for an Account with the username & password
 - Login After Signing Up from the Login Page
@@ -32,5 +32,22 @@ To use the Expense Tracker, follow these steps:-
 - View expense reports by clicking the "Reports" button
 - Filter Expenses According to Date or by Category Section
 
-# License
-The Expense Tracker is licensed under the MIT License.
+### Built With 🎯
+**A lot of love and a little JavaScript**
+
+### Contributing 
+
+Make Pull requests which improve the functionality of the application in any sorts. It should conform with the following conditions. 
+* Clear , short , crisp description of the PR. 
+* Should add on to the value of the application.
+
+### License
+
+MIT © [Arnav Gholap](https://github.com/arnavgholap)
+
+### Acknowledgments 💖
+
+* To my family👪  and friends 👫 who always kept me motivated.
+* To the community of computer science 💻.
+
+Made with ❤ by Arnav Gholap
